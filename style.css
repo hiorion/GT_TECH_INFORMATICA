@@ -1,3 +1,19 @@
 nav {
-    background-color: rgb(54, 128, 240);
+    background-color: #3680f0;
+}
+
+nav a {
+
+    color:rgb(22, 18, 54);
+    font-size: 18px;
+    text-decoration: none;
+}   
+
+.card {
+
+    background-color: rgb(20, 33, 44);
+}
+
+footer {
+    background-color: #3680f0;
 }
